@@ -184,3 +184,6 @@ cmake-build-*
 
 #Python
 __pycache__
+
+#Example Configs
+Configurations-release-2.0.4
